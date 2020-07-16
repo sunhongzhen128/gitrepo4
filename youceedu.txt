@@ -1,8 +1,7 @@
 zhangsan
 lisi
-zhangsan_2
-lisi_2
 zhangsan_3
 --git1
 --git2
 2007160922
+2007160939
